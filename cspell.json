@@ -1,0 +1,14 @@
+// cSpell Settings
+{
+    "version": "0.2",
+    "language": "en",
+    "dictionaries": ["wordlist"],
+    "dictionaryDefinitions": [
+        {
+            "name": "wordlist",
+            "path": "./.cspell-wordlist.txt",
+            "addWords": true
+        }
+    ]
+}
+
